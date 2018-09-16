@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidAcademyDZ1</string>
+    <string name="warning_string_length">Please enter string!</string>
+    <string name="warning_no_mail_app">There is no app for SENDTO action!</string>
+    <string name="btn_preview_text">preview</string>
+    <string name="et_message_hint">Type your message here...</string>
+    <string name="btn_email_text">email</string>
+</resources>

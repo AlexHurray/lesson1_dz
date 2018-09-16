@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="warning_string_length">Вы должны ввести строку!</string>
+    <string name="warning_no_mail_app">Не было зарегистрировано ни одного почтового клиента!</string>
+    <string name="btn_preview_text">Предпросмотр</string>
+    <string name="et_message_hint">Введите Ваше сообщение...</string>
+    <string name="btn_email_text">Отправить</string>
+</resources>
